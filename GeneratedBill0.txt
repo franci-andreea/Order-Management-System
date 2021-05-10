@@ -1,0 +1,6 @@
+Order with id = 0
+Created at 2021-05-10T19:26:28.726546800
+Client ID = 38
+Product ID = 13
+Quantity = 34
+Total order bill = 34

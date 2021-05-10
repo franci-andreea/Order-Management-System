@@ -1,0 +1,6 @@
+Order with id = 5
+Created at 2021-04-27T10:27:07.750776400
+Client ID = 9
+Product ID = 13
+Quantity = 12
+Total order bill = 12
